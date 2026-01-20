@@ -47,11 +47,11 @@ Key Learnings
 
 ## Project Report (Recommended)
 
-The complete project analysis with visualizations is available in HTML format:
+The complete project analysis with visualizations is available here:
 
-- **Uber_Predictive_Analysis_Final_Code_.html**
+- **https://padmasaivayigandla.github.io/Uber-Predictive-traffic-modelling/**
 
-Open the HTML file in a browser for the best viewing experience.
+Open the link in a browser for the best viewing experience.
 
 
 Author
