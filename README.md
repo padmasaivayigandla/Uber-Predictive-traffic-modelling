@@ -45,6 +45,15 @@ Key Learnings
 - Model evaluation and business interpretation of results
 - End-to-end data science project execution
 
+## Project Report (Recommended)
+
+The complete project analysis with visualizations is available in HTML format:
+
+- **Uber_Predictive_Analysis_Final_Code_.html**
+
+Open the HTML file in a browser for the best viewing experience.
+
+
 Author
 
 Padma Sai Vayigandla
